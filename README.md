@@ -1,1 +1,1 @@
-This is my first Techdegree project. My goal is to be Full Stack JS Developer. It's gonna be hard but I will succedd. Glory is awaiting us! Cheers!
+This is my first Techdegree project. My goal is to be Full Stack JS Developer. It's gonna be hard but I will succeed. Better job is somewhere there!
